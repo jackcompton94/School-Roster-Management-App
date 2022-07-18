@@ -6,15 +6,21 @@ C867 | C++
 
 
       basic C++ syntax
+      
+      object-oriented programming
 
-      enumeration
+      pointers | memory
 
       classes | objects
 
       accessors | mutators
 
       constructors | destructor
+      
+      arrays | vectors
 
       parse
 
-      arrays | vectors
+      functions
+      
+      enumeration
