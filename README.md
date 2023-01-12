@@ -1,15 +1,12 @@
-# schoolRoster
-C867 | C++
+# School Roster Management System
+
 
 **Competencies:**
 
-
-
-      basic C++ syntax
       
       object-oriented programming
 
-      pointers | memory
+      pointers | memory allocation
 
       classes | objects
 
